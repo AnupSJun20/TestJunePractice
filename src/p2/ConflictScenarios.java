@@ -5,6 +5,7 @@ public class ConflictScenarios {
 		System.out.println("In Branch A");
 		System.out.println("Hi");
 		System.out.println("Stash Conflict");
+		System.out.println("Hello World");
 	}
 	void calculation() {
 		
